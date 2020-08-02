@@ -2,6 +2,8 @@
 
 This is a Custom React hook that helps you keep track of where a user is when navigating through a predefined list on your page. For example when using Previous/Next buttons for navigation, you can keep track of what point in a list a user is.
 
+**This library is written in TypeScript and contains type definitions for your use**
+
 [See it on NPM](https://www.npmjs.com/package/react-direction)
 
 # Getting Started

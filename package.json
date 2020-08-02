@@ -1,6 +1,6 @@
 {
   "name": "react-direction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that allows you get the most up-to-date position when a user clicks on a previous/next/see more button within a predefined list.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
