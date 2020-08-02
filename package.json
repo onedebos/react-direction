@@ -1,9 +1,11 @@
 {
   "name": "react-direction",
   "version": "1.0.0",
-  "description": "An npm package that allows you get the most up-to-date position when a user clicks on a previous/next button.",
-  "main": "index.js",
+  "description": "An npm package that allows you get the most up-to-date position when a user clicks on a previous/next/see more button within a predefined list.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,7 +30,7 @@
     "url": "https://github.com/onedebos/react-direction/issues"
   },
   "homepage": "https://github.com/onedebos/react-direction#readme",
-  "dependencies": {
-    "react": "^16.13.1"
-  }
+  "files": [
+    "lib/**/*"
+  ]
 }
