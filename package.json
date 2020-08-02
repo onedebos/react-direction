@@ -1,0 +1,34 @@
+{
+  "name": "react-direction",
+  "version": "1.0.0",
+  "description": "An npm package that allows you get the most up-to-date position when a user clicks on a previous/next button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onedebos/react-direction.git"
+  },
+  "keywords": [
+    "previous",
+    "next",
+    "react-direction",
+    "forward",
+    "backwards",
+    "page",
+    "navigation",
+    "navigation",
+    "in",
+    "react"
+  ],
+  "author": "Adebola Adeniran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onedebos/react-direction/issues"
+  },
+  "homepage": "https://github.com/onedebos/react-direction#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
