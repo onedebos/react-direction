@@ -40,7 +40,7 @@ return (
 
 - Clone this repo
 - Run `npm link`
-- In the React Application you used to wish this package in, run `npm link react-direction`. Import it as described above for usage and testing.
+- In the React Application you wish to use this package in, run `npm link react-direction`. Import it as described above for usage and testing.
 
 ## Authors
 
