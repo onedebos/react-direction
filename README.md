@@ -23,15 +23,18 @@ import useDirection from "react-direction";
 - use it!
 
 ```js
-    const [now, goBack, goForward] = useDirection(lengthOfList)
+const [now, goBack, goForward] = useDirection(5);
+
+return (
   <div>
     <p>{now}</p>
-    <button onClick={()=>goBack()}>Previous</button>
-    <button onClick={()=>goForward()}>Next</button>
+    <button onClick={() => goBack()}>Previous</button>
+    <button onClick={() => goForward()}>Next</button>
   </div>
+);
 ```
 
-- `lengthOfList` represents the number of items in your list.
+- Where `5` represents the number of items in your list.
 
 ### Test
 
